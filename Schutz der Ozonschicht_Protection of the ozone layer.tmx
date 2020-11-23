@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="AA"/>
+  <body>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Schutz der Ozonschicht</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Protection of the ozone layer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Regierungen aus der ganzen Welt einigten sich Ende der 1980er Jahre im Rahmen des Montrealer Protokolls darauf, die Ozonschicht der Erde zu schützen, indem sie allmählich die Emissionen ozonabbauender Stoffe aus menschlichen Tätigkeiten reduzieren.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>World governments agreed in the late 1980s to protect the Earth’s ozone layer by phasing out ozone-depleting substances emitted by human activities, under the Montreal Protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>In Europa wird das Protokoll durch EU-weite Rechtsvorschriften umgesetzt, die nicht nur seine Zielvorgaben erfüllen, sondern auch strengere und ehrgeizigere Maßnahmen umfassen.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>In Europe, the Protocol is implemented through EU-wide legislation that not only meets its objectives but also contains stricter, more ambitious measures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Dank globaler Maßnahmen im Rahmen des Montrealer Protokolls konnte der Abbau der Ozonschicht gestoppt werden und eine Erholung beginnen. Um diese jedoch dauerhaft zu gestalten, bleibt noch viel zu tun.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Global action taken under the Montreal Protocol has halted the depletion of the ozone layer and allowed it to start recovering, but much remains to be done to ensure a steady recovery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die Ozonschicht</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The ozone <ph x="0">&lt;t0/&gt;</ph>layer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die Ozonschicht ist eine natürliche Gasschicht in der oberen Erdatmosphäre, die Menschen und andere Lebewesen vor der schädlichen ultravioletten (UV) Strahlung der Sonne schützt.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The ozone layer is a natural layer of gas in the upper atmosphere that protects humans and other living things from harmful ultraviolet (UV) radiation from the sun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Obwohl Ozon in kleinen Konzentrationen in der gesamten Atmosphäre auftritt, findet sich der Großteil (rund 90 %) in der Stratosphäre, einer Schicht, die sich von 10 bis 50 km über der Erdoberfläche erstreckt.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Although ozone is present in small concentrations throughout the atmosphere, most (around 90%) exists in the stratosphere, a layer 10 to 50 <ph x="0">&lt;t0/&gt;</ph>kilometres<ph x="1">&lt;t1/&gt;</ph> above the Earth’s surface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die Ozonschicht filtert die meisten schädlichen UV-Strahlen der Sonne und ist daher für das Leben auf der Erde von entscheidender Bedeutung.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The ozone layer filters out most of the sun's harmful UV radiation and is therefore crucial to life on Earth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Abbau der Ozonschicht</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Ozone depletion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>In den 1970er Jahren entdeckten Wissenschaftler, dass die Ozonschicht abgebaut wurde.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Scientists discovered in the 1970s that the ozone layer was being depleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die atmosphärischen Konzentrationen von Ozon schwanken naturgemäß in Abhängigkeit von Temperatur, Wetter, Breitengrad und Höhe. Auch Stoffe, die durch Naturereignisse wie Vulkanausbrüche ausgestoßen werden, können sich auf die Ozonwerte auswirken.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Atmospheric concentrations of ozone vary naturally depending on temperature, weather, latitude and altitude, while substances ejected by natural events such as volcanic eruptions can also affect ozone levels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Diese natürlichen Phänomene konnten jedoch das beobachtete Ausmaß des Abbaus nicht erklären, und aus wissenschaftlichen Erkenntnissen ging hervor, dass bestimmte, durch den Menschen erzeugte Chemikalien die Ursache waren.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>However, these natural phenomena could not explain the levels of depletion observed and scientific evidence revealed that certain man-made chemicals were the cause.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Diese ozonabbauenden Stoffe kamen insbesondere ab den 1970er Jahren in einer Vielzahl von Industrie- und Verbraucherprodukten zum Einsatz, vor allem in Kühlschränken, Klimaanlagen und Feuerlöschern.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>These ozone-depleting substances were mostly introduced in the 1970s in a wide range of industrial and consumer applications, mainly refrigerators, air conditioners and fire extinguishers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Ozonloch</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Ozone hole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Der Ozonverlust ist am Südpol am größten und tritt vor allem in den letzten Winter- und ersten Frühlingsmonaten (August-November) ein.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Ozone depletion is greatest at the South Pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Am größten ist der Schwund in der Regel Anfang Oktober, wenn das Ozon in großen Gebieten häufig vollständig zerstört wird.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>It occurs mainly in late winter and early spring (August-November) and peak depletion usually occurs in early October, when ozone is often completely destroyed in large areas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Durch diesen starken Abbau entsteht das sogenannte „Ozonloch“, das in Satellitenbildern der Ozonschicht über der Antarktis zu sehen ist.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>This severe depletion creates the so-called “ozone hole” that can be seen in images of Antarctic ozone, made using satellite observations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>In den meisten Jahren geht die maximale Ausdehnung des Ozonlochs über den antarktischen Kontinent selbst hinaus.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>In most years, the maximum area of the hole is bigger than the Antarctic continent itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Obwohl die Ozonverluste in der nördlichen Hemisphäre weniger stark ausgeprägt sind, ist auch über der Arktis und sogar über Kontinentaleuropa eine erhebliche Ausdünnung der Ozonschicht zu beobachten.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Although ozone losses are less radical in the Northern Hemisphere, significant thinning of the ozone layer is also observed over the Arctic and even over continental Europe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die meisten ozonabbauenden Stoffe, die durch menschliche Tätigkeiten freigesetzt werden, verbleiben über Jahrzehnte hinweg in der Stratosphäre, daher ist die Erholung der Ozonschicht ein sehr langsamer, langwieriger Vorgang.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Most of the ozone-depleting substances emitted by human activities remain in the stratosphere for decades, meaning that ozone layer recovery is a very slow, long process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Das nachstehende Diagramm zeigt die Entwicklung der Größe des Ozonlochs über der Antarktis (jährliche Höchstausdehnung).</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The chart below shows the development of the (annual maximum) size of the ozone hole over the Antarctic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>In den Jahren nach der Ratifizierung des Montrealer Protokolls ist das Loch weiter gewachsen; diese Verzögerung ist darauf zurückzuführen, dass ozonabbauende Stoffe lange in der Stratosphäre verbleiben.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The hole grew in the years following ratification of the Montreal Protocol, due to the lag caused by the fact that ozone-depleting substances remain in <ph x="0">&lt;t0/&gt;</ph>the stratosphere for a long time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die maximale Größe des Ozonlochs ist nun rückläufig.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The maximum size of the ozone hole is now decreasing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Auswirkungen des Ozonabbaus auf Mensch und Umwelt</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Effects of ozone depletion for humans and the environment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Der Abbau der Ozonschicht führt zu erhöhter UV-Strahlung auf der Erdoberfläche, die der menschlichen Gesundheit schadet.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Ozone layer depletion causes increased UV radiation levels at the Earth's surface, which is damaging to human health.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Zu den negativen Auswirkungen gehört, dass bestimmte Arten von Hautkrebs, grauer Star und Immunschwächen häufiger auftreten.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Negative effects include increases in certain types of skin cancers, eye cataracts and immune deficiency disorders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Ferner wirkt sich die UV-Strahlung auf Land- und Wasserökosysteme aus und verändert Wachstum, Nahrungsketten und biochemische Kreisläufe.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>UV radiation also affects terrestrial and aquatic ecosystems, altering growth, food chains and biochemical cycles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Wasserorganismen direkt unterhalb der Wasseroberfläche, die die Grundlage der Nahrungskette bilden, werden durch die starke UV-Strahlung besonders beeinträchtigt.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Aquatic life just below the water’s surface, the basis of the food chain, is particularly adversely affected by high UV levels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die UV-Strahlen wirken sich auch auf das Pflanzenwachstum aus, wodurch sich die Produktivität der Landwirtschaft verringert.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>UV rays also affect plant growth, reducing agricultural productivity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Maßnahmen zum Schutz der Ozonschicht</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Action to protect the ozone layer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Das Montrealer Protokoll</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The Montreal Protocol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Um den Abbau der Ozonschicht zu bekämpfen, vereinbarte die internationale Gemeinschaft im Jahr 1987 das <ph x="0">&lt;t0/&gt;</ph>Montrealer Protokoll über Stoffe, die zu einem Abbau der Ozonschicht führen<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>In 1987, to address the destruction of the ozone layer, the international community established the <ph x="0">&lt;t0/&gt;</ph>Montreal Protocol on ozone-depleting substances<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Es handelte sich um das erste internationale Übereinkommen, das von allen Ländern der Welt unterzeichnet wurde, und gilt als größter umweltpolitischer Erfolg in der Geschichte der Vereinten Nationen.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>It was the first international treaty to be signed by all countries of the world and is considered the greatest environmental success story in the history of the United Nations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Ziel des Montrealer Protokolls ist die Reduktion von Produktion und Verbrauch ozonabbauender Stoffe, um deren Gehalt in der Atmosphäre zu verringern und so die Ozonschicht der Erde zu schützen.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The Montreal Protocol’s objective is to cut down the production and consumption of ozone-depleting substances, in order to reduce their presence in the atmosphere and thus protect the Earth's ozone layer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Das nachstehende Diagramm zeigt den abnehmenden Verbrauch der ozonabbauenden Stoffe, für die das Montrealer Protokoll gilt, sowohl weltweit als auch in den 33 EWR-Mitgliedstaaten (die 28 EU-Mitgliedstaaten sowie Island, Liechtenstein, Norwegen, die Schweiz und die Türkei).</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The chart below shows the decreasing consumption of ozone-depleting substances covered by the Montreal Protocol, both globally and by the EEA-33 (the 28 EU Member States plus Iceland, Liechtenstein, Norway, Switzerland and Turkey).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>EU-Vorschriften</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>EU regulation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die Rechtsvorschriften der EU über ozonabbauende Stoffe gehören zu den strengsten und fortschrittlichsten weltweit.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>EU legislation on ozone-depleting substances is among the strictest and most advanced in the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Durch eine Reihe von Verordnungen hat die EU nicht nur das Montrealer Protokoll umgesetzt, sondern häufig die Verwendung gefährlicher Stoffe schneller eingestellt als gefordert.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Through a series of regulations, the EU has not only implemented the Montreal Protocol but has often phased out dangerous substances faster than required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die derzeitige „Ozonverordnung“ der EU (<ph x="0">&lt;t0/&gt;</ph>Verordnung (EG) Nr. 1005/2009<ph x="1">&lt;t1/&gt;</ph>) sieht eine Reihe von Maßnahmen vor, die ein höheres Ambitionsniveau sicherstellen sollen.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The current EU ‘Ozone Regulation’ (<ph x="0">&lt;t0/&gt;</ph>Regulation (EC) 1005/2009<ph x="1">&lt;t1/&gt;</ph>) contains a number of measures to ensure a higher level of ambition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Während das Montrealer Protokoll die <ph x="2">&lt;t2/&gt;</ph>Produktion<ph x="3">&lt;t3/&gt;</ph> dieser Stoffe und den <ph x="4">&lt;t4/&gt;</ph>Massenguthandel<ph x="5">&lt;t5/&gt;</ph> damit regelt, verbietet die Ozonverordnung ihre <ph x="6">&lt;t6/&gt;</ph>Verwendung<ph x="7">&lt;t7/&gt;</ph> in den meisten Fällen (bestimmte Verwendungszwecke sind in der EU noch zulässig).</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>While the Montreal Protocol regulates the <ph x="2">&lt;t2/&gt;</ph>production<ph x="3">&lt;t3/&gt;</ph> of these substances and their <ph x="4">&lt;t4/&gt;</ph>trade<ph x="5">&lt;t5/&gt;</ph> in bulk, the Ozone Regulation prohibits their <ph x="6">&lt;t6/&gt;</ph>use<ph x="7">&lt;t7/&gt;</ph> in most cases (certain uses are still permitted in the EU).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Darüber hinaus regelt sie nicht nur Stoffe in ihrer Form als Massengut, sondern auch solche, die in Produkten und Einrichtungen enthalten sind.</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>Moreover, it regulates not only substances in bulk, but also those contained in products and equipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="AA">
+        <seg>Die EU-Ozonverordnung enthält Vorgaben für Lizenzen für alle Aus- und Einfuhren von Stoffen, die zum Abbau der Ozonschicht führen. Sie umfasst nicht nur die Regelung und Überwachung von Stoffen, die unter das Montrealer Protokoll fallen (über 90 chemische Stoffe), sondern auch von einigen Stoffen, die nicht darunter fallen (fünf weitere Chemikalien, die als „neue Stoffe“ bezeichnet werden).</seg>
+      </tuv>
+      <tuv xml:lang="ZU" creationid="OmegaT Aligner" creationdate="20201123T190414Z">
+        <seg>The EU Ozone Regulation also sets licensing requirements for all exports and imports of ozone-depleting substances and regulates and monitors not only substances covered by the Montreal Protocol (over 90 chemicals), but also some that are not covered (five additional chemicals called 'new substances').</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
